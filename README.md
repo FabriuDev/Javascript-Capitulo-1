@@ -3,4 +3,4 @@
 `Capitulo 1 | Aprendiendo Javascript`
 ---
 
-make by: FabriuDev
+by: FabriuDev
